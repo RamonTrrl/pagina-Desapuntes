@@ -12,9 +12,9 @@
 
 ## 📝 Descripción
 
-Este proyecto es una página web de **documentación técnica** desarrollada como parte de la certificación **"Responsive Web Design"** de freeCodeCamp. El contenido es mi propio ensayo crítico y reflexivo sobre la evolución de internet, la cultura de los certificados, la programación como filosofía, y una reivindicación del uso del texto *Lorem Ipsum* en el diseño digital, entr otras cosas.
+Este proyecto es una página web de **documentación técnica** desarrollada como parte mi certificación en: **"Responsive Web Design"** de freeCodeCamp. El contenido es mi propio ensayo crítico y reflexivo sobre la evolución de internet, la cultura de los certificados, la programación como filosofía, y una reivindicación del uso del texto *Lorem Ipsum* en el diseño digital, entre otras cosas.
 
-He tratado de hae una combinación de HTML semántico y CSS para presentar difrentes artículos que espero su lectura sea fluida, con una estructura clara que incluye secciones, citas y un diseño responsive.
+He tratado de hacer una combinación de HTML semántico y CSS para presentar diferentes artículos, [esperando] que su lectura sea fluida, con una estructura clara que incluye secciones, citas y un diseño responsive.
 
 ---
 
@@ -36,5 +36,9 @@ He tratado de hae una combinación de HTML semántico y CSS para presentar difre
 ---
 
 ## 📁 Estructura del proyecto
+
+- `index.html` – Página principal
+- `estilos.css` – Estilos visuales
+- `desapuntes.png` – Imagen de portada
 
 
