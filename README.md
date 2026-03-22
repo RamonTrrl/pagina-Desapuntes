@@ -37,8 +37,6 @@ He tratado de hacer una combinación de HTML semántico y CSS para presentar dif
 
 ## 📁 Estructura del proyecto
 
-- `index.html` – Página principal
-- `estilos.css` – Estilos visuales
-- `desapuntes.png` – Imagen de portada
-
-
+- [`index.html`](https://github.com/RamonTrrl/pagina-Desapuntes/blob/main/index.html) – Página principal
+- [`estilos.css`](https://github.com/RamonTrrl/pagina-Desapuntes/blob/main/estilos.css) – Estilos visuales
+- [`desapuntes.png`](https://github.com/RamonTrrl/pagina-Desapuntes/blob/main/desapuntes.png) – Imagen de portada
