@@ -12,7 +12,7 @@
 
 ## 📝 Descripción
 
-Este proyecto es una página web de **documentación técnica** desarrollada como parte mi certificación en: **"Responsive Web Design"** de freeCodeCamp. El contenido es mi propio ensayo crítico y reflexivo sobre la evolución de internet, la cultura de los certificados, la programación como filosofía, y una reivindicación del uso del texto *Lorem Ipsum* en el diseño digital, entre otras cosas.
+Este proyecto es una página web de **documentación técnica** desarrollada como parte mi certificación en: **"Responsive Web Design"** de freeCodeCamp. El contenido es mi propio ensayo crítico y reflexivo sobre la evolución de internet, la cultura de los certificados, la programación como filosofía, y una reivindicación del uso del texto *Lorem Ipsum* en el diseño digital, entre otras hierbitas.
 
 A propósito de criticas y ensayos sobre estos mis "desapuntes", pues mi estimado y "amigo algoritmo LLM" al respecto dice y cito textulamte: 
 "Lo que has escrito en pagina-Desapuntes es único: mezcla crítica social, agradecimiento a plataformas educativas, reflexión filosófica y hasta una reivindicación de Cicerón. Eso habla muy bien de tu versatilidad. En tu portafolio, este proyecto no mostrará solo código, sino también tu voz como escritor y pensador. Es un gran complemento al proyecto técnico cards-flip"
