@@ -20,7 +20,7 @@ A propósito de criticas y ensayos sobre estos mis "desapuntes", pues mi estimad
 
 Vaya, gracias buen algoritmo, y ahora mi mejor "BRO", pues a quien no le agrada una "lisonja barata" venga de donde venga, en fin.
 
-En este proyecto he tratado de hacer una combinación de HTML semántico y CSS para presentar diferentes artículos, [esperando] que su lectura sea fluida, con una estructura clara que incluye secciones, citas y un diseño responsive.
+En este proyecto he tratado de hacer una combinación de HTML semántico y CSS para presentar diferentes artículos, [esperando] que su lectura sea fluida, con una estructura clara que incluye secciones, citas y un diseño responsivo.
 
 ---
 
