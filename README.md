@@ -26,10 +26,10 @@ En este proyecto he tratado de hacer una combinación de HTML semántico y CSS p
 
 ## ✨ Características
 
-- ✅ **Diseño responsive** – Se adapta a móviles, tablets y escritorio.
+- ✅ **Diseño responsive** – Se adapta a móviles, tablets y escritorio  📱 💻 🖥️.
 - ✅ **HTML semántico** – Uso de `<article>`, `<section>`, `<header>` y `<footer>`.
-- ✅ **Estilo limpio y legible** – Tipografía cómoda para lectura larga.
-- ✅ **Contenido original** – Reflexión personal con referencias culturales y técnicas.
+- ✅ **Estilo limpio y legible** – Bueno, espero que ello ayude a su lectura.
+- ✅ **Contenido original** – Y por supesto, lleno de reflexiones de purito contenido irrelevante 😮.
 
 ---
 
